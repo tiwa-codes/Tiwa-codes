@@ -6,6 +6,10 @@
 - 💬 Ask me about web development
 - 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/afolabi-tiwalola/
 
+- ![github stats](https://github-readme-stats.vercel.app/api?username=Tiwacodes&show_icons=true)
+- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Tiwacodes.Tiwacodes) 
+
+
 <!--
 **tiwa-codes/Tiwa-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
