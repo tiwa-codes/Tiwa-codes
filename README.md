@@ -6,10 +6,19 @@
 - 💬 Ask me about web development
 - 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/afolabi-tiwalola/
 
-- ![github stats](https://github-readme-stats.vercel.app/api?username=Tiwacodes&show_icons=true)
-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Tiwacodes.Tiwacodes) 
 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![github stats](https://github-readme-stats.vercel.app/api?username=tiwa-codes&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tiwa-codes.tiwa-codes) 
+
+-  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
+-  **Languages :** Python, HTML, CSS, ML/AI
+-  **Hobbies :** Articles & Music :headphones:
+-  **Fact :** First solve the problem, then write the code :heart: 
+-  **Organisation :** Technojam
 <!--
 **tiwa-codes/Tiwa-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
