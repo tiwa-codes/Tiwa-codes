@@ -12,7 +12,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=tiwa-codes&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tiwa-codes-badge) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tiwa-codes&left_color=green&right_color=red)
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
 -  **Languages :** Python, HTML, CSS, ML/AI
