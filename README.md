@@ -12,13 +12,13 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=tiwa-codes&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tiwa-codes.tiwa-codes) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tiwa-codes-badge) 
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
 -  **Languages :** Python, HTML, CSS, ML/AI
 -  **Hobbies :** Articles & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
--  **Organisation :** Technojam
+-  **Organisation :** Creativee Arts & Visual Imagery Studio (CAVIC HUB)
 <!--
 **tiwa-codes/Tiwa-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
