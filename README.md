@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on developing a real estate website for students
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on a Tax Data Management Software for FIRS
+- 🌱 I’m currently learning Solidity
 - 👯 I’m looking to collaborate on any project
-- 🤔 I’m looking for help with data science
-- 💬 Ask me about web development
+- 🤔 I’m looking for help with Blockchain Development
+- 💬 Ask me about web development and Data Science
 - 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/afolabi-tiwalola/
 
 
@@ -14,11 +14,11 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Tiwa-codes.visitor-badge&left_text=MyPageVisitors)
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** Python, HTML, CSS, ML/AI
+-  **Learning :** Blockchain Development :zap: | Open-Source :fire:	
+-  **Languages :** Python, HTML, CSS, ML/AI, SQL, REACT.JS
 -  **Hobbies :** Articles & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
--  **Organisation :** Creativee Arts & Visual Imagery Studio (CAVIC HUB)
+-  **Organisation :** CAMPUS COLLAB
 <!--
 **tiwa-codes/Tiwa-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
