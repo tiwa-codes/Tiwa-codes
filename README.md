@@ -142,11 +142,11 @@ I'm a passionate developer and data scientist with expertise in building end-to-
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiwa-codes&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiwa-codes&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiwa-codes&layout=compact&theme=radical&hide_border=true)
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=tiwa-codes.tiwa-codes&left_text=Profile%20Visitors&right_color=blue)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=tiwa-codes.profile&left_text=Profile%20Visitors&right_color=blue)
 
 ---
 
