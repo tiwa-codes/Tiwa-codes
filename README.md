@@ -11,7 +11,7 @@
 
 I'm a passionate developer and data scientist with expertise in building end-to-end data solutions, web applications, and machine learning pipelines. I specialize in creating reproducible, production-ready projects that solve real-world problems in public health, education, and government systems.
 
-- 🔭 Currently working on: **Tax Data Management Software for FIRS**
+- 🔭 Currently working on: **QA pipeline for routine health facility reports**
 - 🌱 Learning: **Solidity, Flutter, and Advanced ML/AI techniques**
 - 💬 Ask me about: **Python, Data Science, Web Development, Public Health Analytics**
 - 👯 Open to collaboration on: **Data Science projects, Open-source contributions, Social impact tech**
@@ -114,7 +114,6 @@ I'm a passionate developer and data scientist with expertise in building end-to-
 ### [Ivy ML Framework](https://github.com/ivy-llc/ivy)
 **Contributed to the unified machine learning framework**
 - 🔧 Worked on function reformatting and utility improvements
-- 📝 Issues: [#2288 (meshgrid)](https://github.com/ivy-llc/ivy/issues/2288), [#2102 (Reformat Utility)](https://github.com/ivy-llc/ivy/issues/2102)
 - 🎯 Contributed to making ML framework more consistent and maintainable
 
 ### [Learn.co Curriculum](https://github.com/learn-co-curriculum)
@@ -168,7 +167,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 - Education Outcomes Analysis (Nigeria)
 
 **💻 Full-Stack Development:**
-- Tax Data Management Software (FIRS)
+- Tax Data Management Software
 - Portfolio Websites
 - Job Hunt Platform
 
